@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "heros_gear:raw_pearlarium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "heros_gear:raw_pearlarium"
+  }
+}

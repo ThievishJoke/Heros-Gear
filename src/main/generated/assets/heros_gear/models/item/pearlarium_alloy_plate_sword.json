@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "heros_gear:item/pearlarium_alloy_plate_sword"
+  }
+}

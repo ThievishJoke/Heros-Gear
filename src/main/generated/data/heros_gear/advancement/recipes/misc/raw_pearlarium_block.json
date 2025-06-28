@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_raw_pearlarium": {
+      "conditions": {
+        "items": [
+          {
+            "items": "heros_gear:raw_pearlarium"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:raw_pearlarium_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_raw_pearlarium"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:raw_pearlarium_block"
+    ]
+  }
+}

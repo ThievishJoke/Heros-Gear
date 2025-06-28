@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "heros_gear:block/pearlarium_block",
+    "side": "heros_gear:block/pearlarium_block",
+    "top": "heros_gear:block/pearlarium_block"
+  }
+}

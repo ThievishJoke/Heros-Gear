@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "heros_gear:block/nigrum_petramiunium_slab"
+    },
+    "type=double": {
+      "model": "heros_gear:block/nigrum_petramiunium_block"
+    },
+    "type=top": {
+      "model": "heros_gear:block/nigrum_petramiunium_slab_top"
+    }
+  }
+}

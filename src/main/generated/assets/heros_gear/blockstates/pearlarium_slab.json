@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "heros_gear:block/pearlarium_slab"
+    },
+    "type=double": {
+      "model": "heros_gear:block/pearlarium_block"
+    },
+    "type=top": {
+      "model": "heros_gear:block/pearlarium_slab_top"
+    }
+  }
+}

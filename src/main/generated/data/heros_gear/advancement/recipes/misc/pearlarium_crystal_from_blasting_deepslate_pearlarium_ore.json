@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_deepslate_pearlarium_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": "heros_gear:deepslate_pearlarium_ore"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:pearlarium_crystal_from_blasting_deepslate_pearlarium_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_deepslate_pearlarium_ore"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:pearlarium_crystal_from_blasting_deepslate_pearlarium_ore"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_smithing_trim_template": {
+      "conditions": {
+        "items": [
+          {
+            "items": "heros_gear:shock_armor_trim_smithing_template"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "heros_gear:heros_gear"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_smithing_trim_template"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "heros_gear:heros_gear"
+    ]
+  }
+}

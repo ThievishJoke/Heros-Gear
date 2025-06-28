@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "pearlarium",
+  "ingredient": {
+    "item": "heros_gear:pearlarium_ore"
+  },
+  "result": {
+    "id": "heros_gear:pearlarium_crystal"
+  }
+}

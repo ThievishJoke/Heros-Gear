@@ -1,0 +1,9 @@
+{
+  "asset_name": "pearlarium",
+  "description": {
+    "color": "#B03FE0",
+    "translate": "trim_material.heros_gear.pearlarium"
+  },
+  "ingredient": "heros_gear:pearlarium_alloy_ingot",
+  "item_model_index": 1.0
+}

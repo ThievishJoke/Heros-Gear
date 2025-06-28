@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "heros_gear:block/nigrum_petramiunium_block"
+  }
+}

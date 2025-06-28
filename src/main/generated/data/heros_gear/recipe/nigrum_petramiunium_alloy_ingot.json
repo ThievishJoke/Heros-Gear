@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "heros_gear:nigrum_petramiunium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "heros_gear:nigrum_petramiunium_alloy_ingot"
+  }
+}

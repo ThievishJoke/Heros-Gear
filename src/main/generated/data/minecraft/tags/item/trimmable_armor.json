@@ -1,0 +1,20 @@
+{
+  "values": [
+    "heros_gear:pearlarium_helmet",
+    "heros_gear:pearlarium_chestplate",
+    "heros_gear:pearlarium_leggings",
+    "heros_gear:pearlarium_boots",
+    "heros_gear:pearlarium_plate_helmet",
+    "heros_gear:pearlarium_plate_chestplate",
+    "heros_gear:pearlarium_plate_leggings",
+    "heros_gear:pearlarium_plate_boots",
+    "heros_gear:nigrum_petramiunium_helmet",
+    "heros_gear:nigrum_petramiunium_chestplate",
+    "heros_gear:nigrum_petramiunium_leggings",
+    "heros_gear:nigrum_petramiunium_boots",
+    "heros_gear:nigrum_petraminium_plate_helmet",
+    "heros_gear:nigrum_petraminium_plate_chestplate",
+    "heros_gear:nigrum_petraminium_plate_leggings",
+    "heros_gear:nigrum_petraminium_plate_boots"
+  ]
+}

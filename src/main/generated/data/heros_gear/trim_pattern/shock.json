@@ -1,0 +1,8 @@
+{
+  "asset_id": "heros_gear:shock",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.heros_gear.shock"
+  },
+  "template_item": "heros_gear:shock_armor_trim_smithing_template"
+}

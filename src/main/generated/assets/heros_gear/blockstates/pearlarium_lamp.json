@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "clicked=false": {
+      "model": "heros_gear:block/pearlarium_lamp"
+    },
+    "clicked=true": {
+      "model": "heros_gear:block/pearlarium_lamp_on"
+    }
+  }
+}

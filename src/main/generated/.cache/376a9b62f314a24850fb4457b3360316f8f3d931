@@ -1,0 +1,7 @@
+// 1.21.1	2025-03-01T09:48:07.8592392	Heros Gear/Tags for minecraft:block
+0855fa364dc097069974bec04189870172d90b94 data\heros_gear\tags\block\weapon_effecient.json
+e0105f42e92c39128f857dbd71ba7c4049578881 data\minecraft\tags\block\needs_diamond_tool.json
+99fe1a999cc92fa047275287f9c1b8b71684ff3b data\minecraft\tags\block\trapdoors.json
+7071fe072b3efa72ea11726cacae39ed6de5a348 data\minecraft\tags\block\walls.json
+fb9a4b538c79e54c1637b963120781757d4c584c data\fabric\tags\block\needs_tool_level_4.json
+d3337a4eb8b84a77f6a40805c6344a6887cbe87c data\minecraft\tags\block\mineable\pickaxe.json

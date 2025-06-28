@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "nigrum_petramiunium",
+  "ingredient": {
+    "item": "heros_gear:deepslate_nigrum_petramiunium_ore"
+  },
+  "result": {
+    "id": "heros_gear:nigrum_petramiunium_crystal"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "tag.hanas_blocks.incorrect_for_pearlarium_tool": "incorrect for pearlarium tool",
+  "tag.hanas_blocks.incorrect_for_pearlarium_plate_tool": "incorrect for pearlarium plate tool",
+  "tag.hanas_blocks.incorrect_for_nigrum_petramiunium_tool": "incorrect for nigrum petramiunium tool",
+  "tag.hanas_blocks.incorrect_for_nigrum_petramiunium_plate_tool": "incorrect for nigrum petramiunium plate tool",
+
+  "block.heros_gear.low_quality_pearlarium_ore": "Low Grade Pearlarium Ore",
+  "block.heros_gear.pearlarium_ore": "Medium Grade Pearlarium Ore",
+  "block.heros_gear.deepslate_pearlarium_ore": "High Grade Deepslate Pearlarium Ore",
+  "block.heros_gear.pearlarium_crystal_block": "Pearlarium Crystal Block",
+  "block.heros_gear.pearlarium_alloy_sheet_block": "Pearlarium Alloy Sheet Block",
+  "block.heros_gear.pearlarium_block": "Pearlarium Block",
+  "block.heros_gear.pearlarium_slab": "Pearlarium Slab",
+  "block.heros_gear.pearlarium_stairs": "Pearlarium Stairs",
+  "block.heros_gear.pearlarium_wall": "Pearlarium Wall",
+  "block.heros_gear.pearlarium_trapdoor": "Pearlarium Trapdoor",
+
+  "block.heros_gear.low_quality_nigrum_petramiunium_ore": "Low Grade Nigrum Petramiunium Ore",
+  "block.heros_gear.nigrum_petramiunium_ore": "Medium Grade Nigrum Petramiunium Ore",
+  "block.heros_gear.deepslate_nigrum_petramiunium_ore": "High Grade Deepslate Nigrum Petramiunium Ore",
+  "block.heros_gear.nigrum_petramiunium_crystal_block": "Nigrum Petramiunium Crystal Block",
+  "block.heros_gear.nigrum_petramiunium_alloy_sheet_block": "Nigrum Petramiunium Alloy Sheet Block",
+  "block.heros_gear.nigrum_petramiunium_block": "Nigrum Petramiunium Block",
+  "block.heros_gear.nigrum_petramiunium_slab": "Nigrum Petramiunium Slab",
+  "block.heros_gear.nigrum_petramiunium_stairs": "Nigrum Petramiunium Stairs",
+  "block.heros_gear.nigrum_petramiunium_wall": "Nigrum Petramiunium Wall",
+  "block.heros_gear.nigrum_petramiunium_trapdoor": "Nigrum Petramiunium Trapdoor",
+
+  "item.heros_gear.raw_pearlarium": "Raw Pearlarium",
+  "item.heros_gear.pearlarium_alloy_ingot": "Pearlarium Alloy Ingot",
+  "item.heros_gear.pearlarium_alloy_plate": "Pearlarium Alloy Plate",
+  "item.heros_gear.pearlarium_alloy_sheet": "Pearlarium Alloy Sheet",
+  "item.heros_gear.pearlarium_crystal": "Pearlarium Crystal",
+  "item.heros_gear.crushed_pearlarium": "Crushed Pearlarium",
+  "item.heros_gear.raw_nigrum_petramiunium": "Raw Nigrum Petramiunium",
+  "item.heros_gear.nigrum_petramiunium_alloy_ingot": "Nigrum Petramiunium Alloy Ingot",
+  "item.heros_gear.nigrum_petramiunium_alloy_plate": "Nigrum Petramiunium Alloy Plate",
+  "item.heros_gear.nigrum_petramiunium_alloy_sheet": "Nigrum Petramiunium Alloy Sheet",
+  "item.heros_gear.nigrum_petramiunium_crystal": "Nigrum Petramiunium Crystal",
+  "item.heros_gear.crushed_nigrum_petramiunium": "Crushed Nigrum Petramiunium",
+
+  "item.heros_gear.pearlarium_alloy_sword": "Pearlarium Alloy Sword",
+  "item.heros_gear.pearlarium_alloy_pickaxe": "Pearlarium Alloy Pickaxe",
+  "item.heros_gear.pearlarium_alloy_shovel": "Pearlarium Alloy Shovel",
+  "item.heros_gear.pearlarium_alloy_axe": "Pearlarium Alloy Axe",
+  "item.heros_gear.pearlarium_alloy_hoe": "Pearlarium Alloy Hoe",
+
+  "item.heros_gear.pearlarium_helmet": "Pearlarium Alloy Helmet",
+  "item.heros_gear.pearlarium_chestplate": "Pearlarium Alloy Chestplate",
+  "item.heros_gear.pearlarium_leggings": "Pearlarium Alloy Leggings",
+  "item.heros_gear.pearlarium_boots": "Pearlarium Alloy Boots",
+
+  "item.heros_gear.pearlarium_plate_helmet": "Pearlarium Plate Helmet",
+  "item.heros_gear.pearlarium_plate_chestplate": "Pearlarium Plate Chestplate",
+  "item.heros_gear.pearlarium_plate_leggings": "Pearlarium Plate Leggings",
+  "item.heros_gear.pearlarium_plate_boots": "Pearlarium Plate Boots",
+
+  "item.heros_gear.nigrum_petramiunium_helmet": "Nigrum Petramiunium Alloy Helmet",
+  "item.heros_gear.nigrum_petramiunium_chestplate": "Nigrum Petramiunium Alloy Chestplate",
+  "item.heros_gear.nigrum_petramiunium_leggings": "Nigrum Petramiunium Alloy Leggings",
+  "item.heros_gear.nigrum_petramiunium_boots": "Nigrum Petramiunium Alloy Boots",
+
+  "item.heros_gear.nigrum_petramiunium_plate_helmet": "Nigrum Petramiunium Plate Helmet",
+  "item.heros_gear.nigrum_petramiunium_plate_chestplate": "Nigrum Petramiunium Plate Chestplate",
+  "item.heros_gear.nigrum_petramiunium_plate_leggings": "Nigrum Petramiunium Plate Leggings",
+  "item.heros_gear.nigrum_petramiunium_plate_boots": "Nigrum Petramiunium Plate Boots",
+
+  "item.heros_gear.pearlarium_horse_armor": "Pearlarium Horse Armor",
+
+  "item.heros_gear.pearlarium_blahaj": "Pearlarium Blåhaj",
+  "item.heros_gear.nigrum_petramiunium_blahaj": "Nigrum Petramiunium Blåhaj"
+}

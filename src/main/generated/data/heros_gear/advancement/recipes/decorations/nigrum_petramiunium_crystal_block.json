@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_nigrum_petramiunium_crystal": {
+      "conditions": {
+        "items": [
+          {
+            "items": "heros_gear:nigrum_petramiunium_crystal"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:nigrum_petramiunium_crystal_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_nigrum_petramiunium_crystal"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:nigrum_petramiunium_crystal_block"
+    ]
+  }
+}

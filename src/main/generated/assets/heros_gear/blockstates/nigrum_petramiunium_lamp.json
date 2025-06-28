@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "clicked=false": {
+      "model": "heros_gear:block/nigrum_petramiunium_lamp"
+    },
+    "clicked=true": {
+      "model": "heros_gear:block/nigrum_petramiunium_lamp_on"
+    }
+  }
+}

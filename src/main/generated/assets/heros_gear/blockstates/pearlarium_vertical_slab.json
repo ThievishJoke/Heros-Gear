@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "type=back": {
+      "model": "heros_gear:block/pearlarium_vertical_slab_back"
+    },
+    "type=double": {
+      "model": "heros_gear:block/pearlarium_block"
+    },
+    "type=front": {
+      "model": "heros_gear:block/pearlarium_vertical_slab"
+    },
+    "type=left": {
+      "model": "heros_gear:block/pearlarium_vertical_slab_left"
+    },
+    "type=right": {
+      "model": "heros_gear:block/pearlarium_vertical_slab_right"
+    }
+  }
+}

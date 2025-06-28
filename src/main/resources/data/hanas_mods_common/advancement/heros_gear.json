@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Hero's Gear",
+        "description": "Adds Tier 4 Gear",
+        "icon": {
+            "id": "heros_gear:pearlarium_alloy_plate"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "hanas_mods_common:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

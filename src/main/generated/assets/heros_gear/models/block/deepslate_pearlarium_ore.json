@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "heros_gear:block/deepslate_pearlarium_ore"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "nigrum_petramiunium",
+  "ingredient": {
+    "item": "heros_gear:raw_nigrum_petramiunium"
+  },
+  "result": {
+    "id": "heros_gear:nigrum_petramiunium_crystal"
+  }
+}

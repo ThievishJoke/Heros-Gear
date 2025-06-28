@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "heros_gear:item/nigrum_petramiunium_alloy_ingot"
+  }
+}

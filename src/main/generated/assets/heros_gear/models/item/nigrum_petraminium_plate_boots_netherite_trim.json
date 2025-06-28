@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "heros_gear:item/nigrum_petraminium_plate_boots",
+    "layer1": "minecraft:trims/items/boots_trim_netherite"
+  }
+}
